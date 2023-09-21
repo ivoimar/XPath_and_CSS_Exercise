@@ -1,0 +1,29 @@
+CSS:
+http://training.skillo-bg.com/users/4959
+
+Sign in button - 
+ button#sign-in-button.my-4.btn.btn-primary
+usermane or email field - 
+  input#defaultLoginFormUsername.form-control.mb-4.ng-pristine.ng-invalid.ng-touched
+password field - 
+ input#defaultLoginFormPassword.form-control.mb-4.ng-pristine.ng-invalid.ng-touched
+navigation button Profile - 
+ a#nav-link-profile.nav-link
+homeicon -
+ img#homeIcon
+SignOut :
+[i.fas.fa-sign-out-alt.fa-lg]
+Search bar:
+input#search-bar.form-control.mr-sm-2.ng-pristine.ng-valid.ng-touched
+Nav link new post:
+a#nav-link-new-post.nav-link
+Brows button btn primary :
+button#choose-file.browse.btn.btn-primary.input-lg
+Drop the image square new post page:
+[div.uploadfilecontainer]
+Profile stat count:
+[strong.profile-stat-count, li#followers.profile-stat-count.pointer, li#following.profile-stat-count.pointer]
+
+Count pointer :
+li#followers.profile-stat-count.pointer
+
